@@ -26,5 +26,4 @@ upload
 target
 tale.sql
 *.md
-application-jdbc.properties
-application.properties
+*.properties
